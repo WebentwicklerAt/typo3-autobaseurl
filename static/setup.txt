@@ -1,1 +1,4 @@
-config.absRefPrefix = {$baseUrl}
+config {
+	absRefPrefix = {$baseUrl}
+	baseURL = {$baseUrl}
+}
